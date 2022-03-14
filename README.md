@@ -5,7 +5,7 @@ Sou Desenvolvedor: Back-End Júnior,
 Sou do Brasil :brazil:, Tenho 27 anos. Estou constante evolução.
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=neilsonvenute&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=neilsonvenute&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=neilsonvenute&langs_count=10)](https://github.com/neilsonvenute/github-readme-stats)
 
 <h5>Linguagens e Ferramentas :rocket::</h5>
 
