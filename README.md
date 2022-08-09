@@ -1,8 +1,8 @@
 
 <h1>Olá, sou o Neilson Venute<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-Sou Desenvolvedor: Back-End Júnior, 
-Sou do Brasil :brazil:, Tenho 27 anos. Estou constante evolução.
+Sou Desenvolvedor: Back-End. 
+Sou do Brasil :brazil: Em constante evolução.
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=neilsonvenute&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilsonvenute&langs_count=10&show_icons=true&theme=dracula)](https://github.com/neilsonvenute/github-readme-stats)
